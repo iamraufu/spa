@@ -1,1 +1,3 @@
-"# spa" 
+# SPA
+
+Single Page Application
